@@ -1,0 +1,11 @@
+{
+    "6352240b205d0ee4": {},
+    "dd0b7f14421d961d": {
+        "username": "admin",
+        "password": "admin123456"
+    },
+    "e2bc7ac9aa77279e": {
+        "username": "${MONGO_USER}",
+        "password": "${MONGO_PASSWORD}"
+    }
+}
